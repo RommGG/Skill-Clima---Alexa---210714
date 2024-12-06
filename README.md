@@ -219,3 +219,7 @@ exports.handler = Alexa.SkillBuilders.custom()
     <img align="" src="./imagenes/5.png" alt="Logo TIC" width="500" />
     <img align="" src="./imagenes/6.png" alt="Logo UTXJ" width="500"/>
 </div>
+<div style="display: flex; justify-content: space-between;">
+    <img align="" src="./imagenes/7.png" alt="Logo TIC" width="500" />
+    <img align="" src="./imagenes/8.png" alt="Logo UTXJ" width="500"/>
+</div>
